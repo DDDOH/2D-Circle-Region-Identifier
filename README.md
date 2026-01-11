@@ -9,16 +9,16 @@ git clone https://github.com/DDDOH/2D-Circle-Region-Identifier.git
 cd 2D-Circle-Region-Identifier
 
 2. **Create a Virtual Environment**:
-python -m venv venv
+`python -m venv venv`
 Activate it:
 - Windows: `venv\Scripts\activate`
 - macOS/Linux: `source venv/bin/activate`
 
 3. **Install Dependencies**:
-pip install numpy matplotlib
+`pip install -r requirements.txt`
 
 4. **Run the Script**:
-python main.py
+`python main.py`
 
 
 ## Usage
